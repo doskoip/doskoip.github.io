@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+header {
+  color:#ff0000
+  font-size:28px
+}
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
