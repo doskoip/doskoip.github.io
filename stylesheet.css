@@ -7,6 +7,17 @@ a {
   text-decoration: none;
 }
 
-header {
-  color:#800080
+.container {
+  width:1170px;
+  padding:0 15px;
+  margin:0 auto;
 }
+
+.top-wrapper{
+  padding:180px 0 100px 0;
+  background-image:url();
+  background-size:cover;
+  
+  color:white;
+}
+
