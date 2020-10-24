@@ -35,3 +35,20 @@ a {
   opacity: 0.8;
   border-radius: 4px;
 }
+
+.contents-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.contents {
+  float:left;
+  width:25%;
+}
