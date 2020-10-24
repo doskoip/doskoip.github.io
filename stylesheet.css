@@ -36,7 +36,7 @@ a {
   border-radius: 4px;
 }
 
-.contents-wrapper {
+.lesson-wrapper {
   height: 500px;
   padding-bottom: 80px;
   background-color: #f7f7f7;
@@ -48,7 +48,7 @@ a {
   color: #5f5d60;
 }
 
-.contents-icon {
+.lesson {
   float:left;
   width:25%;
 }
