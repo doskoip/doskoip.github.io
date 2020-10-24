@@ -20,11 +20,10 @@ a {
   color:white;
 }
 
+.btn-wrapper {
+  margin:20px
+}
 
-
-.btn {
-  padding:8px 24px;
-  color:white;
-  display:inline-block;
-  opacity:0.8;
-  ｝
+.instagram{
+  background-color:#ff00ff
+}
