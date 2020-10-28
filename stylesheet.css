@@ -39,6 +39,7 @@ a {
   height: 500px;
   padding-bottom: 80px;
   background-color: #f7f7f7;
+  text-align:center;
 }
 
 .heading {
@@ -61,5 +62,5 @@ a {
   top:90px;
   width:100%;
   color:#ffffff;
-  text-align:center;
+ 
 }
