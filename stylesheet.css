@@ -59,7 +59,6 @@ a {
 
 .lesson-icon p {
   position:absolute;
-  top:90px;
-  width:100%;
-  font-color:white;
+  top:80px;
+  width:90%;
 }
