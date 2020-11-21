@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Aboutpeko</title>
+    <title>About Peko</title>
     <link rel="stylesheet" href="stylesheet.css_a">
   </head>
   <body>
-  <div class="top-wrapper">
-  <div class=container">
-   <h1>ぺこ</h1>
-  </div>
-  </div>
+    <h1 class="title">ぺこちゃん紹介</h1>
+    <p>お誕生日：2019年9月25日</p>
   </body>
 </html>
